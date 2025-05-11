@@ -19,6 +19,7 @@ void loop()
   display.setTextAlignment(TEXT_ALIGN_CENTER);
   display.setFont(ArialMT_Plain_24);
   display.drawString(70, 18, "A");
-
+  
+  /* renders the alphabet on OLED */ 
   display.display();
 }

@@ -1,4 +1,4 @@
-My hobby projects use the **ESP-WROOM-32** development board.
+These projects use the **ESP32-WROOM** development board
 ---
 
 This repository contains the following branches:
